@@ -89,6 +89,10 @@ header .container-hed {
     margin-left: 237px;
 }
 
+.nav-list .nav-link a:hover {
+    color: #22343d;
+    font-weight: 600;
+}
 
 .logo-title {
     font-weight: 700;
