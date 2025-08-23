@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    scroll-behavior: smooth;
 
 }
 
@@ -10,11 +11,11 @@ html {
 body {
     height: 100%;
     max-width: 1400px;
-    margin: 0;
     font-family: "Poppins", sans-serif;
     color: #22343d;
     background-color: fff;
     box-sizing: border-box;
+    margin: 0 auto;
 
 }
 
@@ -52,6 +53,7 @@ img {
 
 .div-bod {
     background-color: #fff;
+
 }
 
 
@@ -187,6 +189,12 @@ header .container-hed {
     font-weight: 700;
     font-size: 16px;
     margin-right: 30px;
+}
+
+.triangle-img {
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
 }
 
 .video-link {
