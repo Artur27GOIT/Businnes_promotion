@@ -84,6 +84,7 @@ header .container-hed {
 
 .naviganion {
     display: flex;
+    min-width: 794px;
     align-items: center;
     margin-left: 146px;
 }
@@ -171,7 +172,7 @@ header .container-hed {
 }
 
 .cintainer-text {
-    margin: 112px 35px 112px 0;
+    margin: 112px 42px 112px 0;
 }
 
 .hero-title {
@@ -220,7 +221,7 @@ header .container-hed {
 }
 
 .container-img {
-    width: 610px;
+    min-width: 610px;
     height: 555px;
 }
 
